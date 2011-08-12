@@ -1,0 +1,12 @@
+.DS_Store
+Library/*
+Temp
+!AudioManager.asset
+!DynamicsManager.asset
+!EditorBuildSettings.asset
+!InputManager.asset
+!NetworkManager.asset
+!ProjectSettings.asset
+!QualitySettings.asset
+!TagManager.asset
+!TimeManager.asset
